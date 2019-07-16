@@ -1,25 +1,22 @@
-# 使用网页幻灯片作为本github根页面
+# 使用网页幻灯片作为本github根页面展示
 
 
 
-## 安装
+## page-build
 
-```
+<https://nanarino.github.io/>
+
+
+
+## page-cli-setup
+
+```bash
+#安装
 npm install -g reveal-md
-```
-
-
-
-## cli-dev
-
-```
+#dev指令
 reveal-md index.md -w
-```
-
-
-
-## cli-build
-
-```
+#build指令
 reveal-md index.md --static _site
 ```
+
+For a detailed explanation on how things work, check out [docs for reveal-md](https://github.com/webpro/reveal-md).
