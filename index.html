@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>reveal-md</title>
+    <link rel="stylesheet" href="./css/reveal.css" />
+    <link rel="stylesheet" href="./css/theme/black.css" id="theme" />
+    <link rel="stylesheet" href="./css/highlight/zenburn.css" />
+    <link rel="stylesheet" href="./css/print/paper.css" type="text/css" media="print" />
+
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section  data-markdown><script type="text/template"># nanarino repositories page navigation
+
+欢迎访问<ruby>古川<rp>(<rp><rt>こがわ</rt><rp>)</rp>七<rp>(</rp><rt>&nbsp;なな</rt><rp>)</rp>里<rp>(</rp><rt>り&nbsp;</rt><rp>)</rp></ruby>のgithub ppt
+</script></section><section  data-markdown><script type="text/template">
+## Self introduction
+
+大家好
+
+我是培训时长两年半的python练习生
+
+喜欢增，删，改，查，写bug
+</script></section><section  data-markdown><script type="text/template">
+## The meaning of username
+
+It's obvious.
+
+意味：古川<ruby>ななり<rp>(</rp><rt>nanari</rt><rp>)</rp></rp>の<rp>(</rp><rt>no</rt><rp>)</rp></ruby>gayhub
+</script></section><section  data-markdown><script type="text/template">
+同时，我还是一位
+
+## <ruby>单<rp>(</rp><rt>D</rt><rp>)</rp></rp>推<rp>(</rp><rt>D</rt><rp>)</rp></ruby>人
+</script></section><section  data-markdown><script type="text/template">
+## navigation
+
+仓库指引
+
+- [基础知识笔记：markdown-note](https://nanarino.github.io/markdown-note/)
+
+  它包括了基础语法和常用模块/库：
+
+  - JavaScript（es5/6+）
+  - Python（3.6.8）
+
+  也包含了一些数据库指令，web框架的简单知识。
+</script></section><section  data-markdown><script type="text/template">
+## navigation
+
+仓库指引
+
+- [沙雕网页游戏：智能拼图](https://nanarino.github.io/nanarino-jigsaw/)
+
+  这是一个4*4的拼图还原游戏
+
+  是作者才学编程一个月的时候写的
+
+  可能有一点乱，也没做精灵图优化
+</script></section><section  data-markdown><script type="text/template">
+## navigation
+
+仓库指引
+
+- [vue开源UI组件：upImg](https://github.com/nanarino/vue-upImg/blob/master/README.md)
+
+  这是一个基于Vue的
+
+  用于PC端上传相册功能的UI组件
+
+  相比大部分UI上传组件
+
+  请求次数更少，适合小带宽。
+</script></section><section  data-markdown><script type="text/template">
+## navigation
+
+仓库指引
+
+- [django项目：茶道部](https://github.com/nanarino/cdb/blob/master/README.md)
+
+  django模板渲染的小型网站
+
+  响应式布局，外观偏台湾动漫风格
+
+  实现了基本的，播放音频，
+
+  文章发表，评论，相册上传，
+
+  修改个人信息等功能
+</script></section><section  data-markdown><script type="text/template">
+## navigation
+
+仓库指引
+
+- 其他仓库暂时停更
+</script></section><section  data-markdown><script type="text/template">
+<a href="javascript:window.opener=null;window.location.href='https://github.com/nanarino';window.close();">幻灯片播放结束，点击退出</a>
+
+</script></section></div>
+    </div>
+
+    <script src="./lib/js/head.min.js"></script>
+    <script src="./js/reveal.js"></script>
+
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+      // Optional libraries used to extend on reveal.js
+      var deps = [
+        { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+        { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+        { src: './plugin/zoom-js/zoom.js', async: true },
+        { src: './plugin/notes/notes.js', async: true },
+        { src: './plugin/math/math.js', async: true }
+      ];
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        dependencies: deps
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal.getQueryHash() || {};
+
+      var options = extend(defaultOptions, {}, queryOptions);
+    </script>
+
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+</html>
