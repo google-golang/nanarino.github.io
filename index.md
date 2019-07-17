@@ -47,7 +47,7 @@ It's obvious.
 
 仓库指引
 
-- [沙雕网页游戏：智能拼图](https://nanarino.github.io/nanarino-jigsaw/)
+- [沙雕网页游戏：智能拼图](https://nanarino.github.io/jigsaw/)
 
   这是一个4*4的拼图还原游戏
 
