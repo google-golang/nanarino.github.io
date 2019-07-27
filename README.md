@@ -16,7 +16,7 @@ npm install -g reveal-md
 #dev指令
 reveal-md index.md -w
 #build指令
-reveal-md index.md --static _site
+reveal-md index.md --static dist
 ```
 
 For a detailed explanation on how things work, check out [docs for reveal-md](https://github.com/webpro/reveal-md).
