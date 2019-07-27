@@ -8,7 +8,7 @@
 
 由于本仓库为github的根页面，无法使用其他分支作为页面：
 
-User pages must be built from the `master` branch.
+If your site is a User or Organization Page that has a repository named `<username>.github.io`or `<orgname>.github.io`, you cannot publish your site's source files from different locations. User and Organization Pages that have this type of repository name are only published from the `master`branch.
 
 故而直接将dist目录的index.html解构到此目录中。
 
