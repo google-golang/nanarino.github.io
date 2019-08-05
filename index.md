@@ -1,4 +1,4 @@
-# nanarino navigation PPT
+# NANARINO NAVIGATION PPT
 
 欢迎播放：<ruby>古川<rp>(<rp><rt>こがわ</rt><rp>)</rp>七<rp>(</rp><rt>&nbsp;なな</rt><rp>)</rp>里<rp>(</rp><rt>り&nbsp;</rt><rp>)</rp></ruby>のスライドフィルム
 
