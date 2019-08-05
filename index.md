@@ -2,7 +2,7 @@
 
 欢迎播放：<ruby>古川<rp>(<rp><rt>こがわ</rt><rp>)</rp>七<rp>(</rp><rt>&nbsp;なな</rt><rp>)</rp>里<rp>(</rp><rt>り&nbsp;</rt><rp>)</rp></ruby>のスライドフィルム
 
-<a onclick="if(window.a===undefined){window.a=true};document.getElementById('theme').href='https://raw.githubusercontent.com/nanarino/nanarino.github.io/master/css/theme/'+['black','white'][Number(window.a)]+'.css';window.a=!window.a">切换主题</a>
+<a onclick="if(window.a===undefined){window.a=true};document.getElementById('theme').href='https://nanarino.github.io/css/theme/'+['black','white'][Number(window.a)]+'.css';window.a=!window.a">切换主题</a>
 
 ---
 
