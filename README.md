@@ -16,6 +16,8 @@ If your site is a User or Organization Page that has a repository named `<userna
 
 ## page-cli-setup
 
+本文档采用reveal-md展示，其安装和部署如下：
+
 ```bash
 #安装
 npm install -g reveal-md
