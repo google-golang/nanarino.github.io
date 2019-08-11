@@ -34,7 +34,7 @@ It's obvious.
 
 仓库指引
 
-- [基础知识笔记：markdown-note](https://nanarino.github.io/markdown-note/)
+- <a href="https://nanarino.github.io/markdown-note/" target="_blank">基础知识笔记：markdown-note</a>
 
   它包括了基础语法和常用模块/库：
 
@@ -49,7 +49,7 @@ It's obvious.
 
 仓库指引
 
-- [沙雕网页游戏：智能拼图](https://nanarino.github.io/jigsaw/)
+- <a href="https://nanarino.github.io/jigsaw/" target="_blank">沙雕网页游戏：智能拼图</a>
 
   这是一个4*4的拼图还原游戏，
 
@@ -63,7 +63,7 @@ It's obvious.
 
 仓库指引
 
-- [vue开源UI组件：upImg](https://github.com/nanarino/vue-upImg)
+- <a href="https://github.com/nanarino/vue-upImg" target="_blank">vue开源UI组件：upImg</a>
 
   这是一个基于Vue的，
 
@@ -79,7 +79,7 @@ It's obvious.
 
 仓库指引
 
-- [django项目：茶道部](https://github.com/nanarino/cdb)
+- <a href="https://github.com/nanarino/cdb" target="_blank">django项目：茶道部</a>
 
   django模板渲染的小型网站，
 
@@ -97,9 +97,9 @@ It's obvious.
 
 仓库指引
 
-- [drf项目：茶道部后端](https://github.com/nanarino/REST_cdb)
+- <a href="https://github.com/nanarino/REST_cdb" target="_blank">drf项目：茶道部后端</a>
 
-- [vue项目：茶道部前端](https://github.com/nanarino/SPA_cdb)
+- <a href="https://github.com/nanarino/SPA_cdb" target="_blank">vue项目：茶道部前端</a>
 
   django项目cdb的分离测试版本，
 
@@ -113,12 +113,11 @@ It's obvious.
 
 其他仓库指引
 
-- [github.io：本ppt页面](https://github.com/nanarino/nanarino.github.io)
-- [demo库：存放示例小项目](https://github.com/nanarino/demo)
-- [pycrypt-file：文件加密小脚本](https://github.com/nanarino/pycrypt-file)
-- [...](https://github.com/nanarino?tab=repositories)
+- <a href="https://github.com/nanarino/nanarino.github.io" target="_blank">github.io：本ppt页面</a>
+- <a href="https://github.com/nanarino/demo" target="_blank">demo库：存放示例小项目</a>
+- <a href="https://github.com/nanarino/pycrypt-file" target="_blank">pycrypt-file：文件加密小脚本</a>
+- <a href="https://github.com/nanarino?tab=repositories" target="_blank">...</a>
 
 ---
 
-<a href="javascript:window.opener=null;window.location.href='https://github.com/nanarino';window.close();">幻灯片播放结束，点击退出</a>
-
+<a href="javascript:window.location.href='about:blank';window.close();">幻灯片播放结束，点击退出</a>
