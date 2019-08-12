@@ -120,4 +120,4 @@ It's obvious.
 
 ---
 
-<a href="javascript:window.location.href='about:blank';window.close();">幻灯片播放结束，点击退出</a>
+<a href="javascript:window.opener=null;open(location, '_self').close();setTimeout(()=>{alert('浏览器禁用了关闭，请手动关闭标签页')},1000);">幻灯片播放结束，点击退出</a>
