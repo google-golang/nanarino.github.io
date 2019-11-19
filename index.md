@@ -8,7 +8,9 @@
 
 ## Self introduction
 
-<ruby>古川<rp>(<rp><rt>こがわ</rt><rp>)</rp>七<rp>(</rp><rt>&nbsp;なな</rt><rp>)</rp>里<rp>(</rp><rt>り&nbsp;</rt><rp>)</rp></ruby>，社恐debu，狗狗单推人。
+<ruby>古川<rp>(<rp><rt>こがわ</rt><rp>)</rp>七<rp>(</rp><rt>&nbsp;なな</rt><rp>)</rp>里<rp>(</rp><rt>り&nbsp;</rt><rp>)</rp></ruby>，社恐debu。
+
+喜欢音游，想成为画佬。狗狗单推人。
 
 ---
 
@@ -121,14 +123,12 @@
 
 ---
 
-## more navigation
+## more info
 
-其他仓库指引
+联系方式
 
-- <a href="https://github.com/nanarino/nanarino.github.io" target="_blank">github.io：本ppt页面</a>
-- <a href="https://github.com/nanarino/demo" target="_blank">demo库：存放示例小项目</a>
-- <a href=" https://github.com/nanarino/CUR_INF_create" target="_blank">CUR_INF_create：鼠标主题安装脚本</a>
-- <a href="https://github.com/nanarino?tab=repositories" target="_blank">...</a>
+- 哔哩哔哩：古川ななり
+- 电子邮箱：`qq431756801@163.com`
 
 ---
 

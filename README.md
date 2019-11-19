@@ -21,7 +21,7 @@ If your site is a User or Organization Page that has a repository named `<userna
 ```bash
 #安装
 npm install -g reveal-md
-#dev指令
+#dev指令(已写好.cmd脚本)
 reveal-md index.md -w
 #build指令
 reveal-md index.md --static dist
