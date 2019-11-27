@@ -66,4 +66,4 @@
 
 ---
 
-<a href="javascript:setInterval('alert(`你出不去了`)',2000);">幻灯片播放结束，点击退出</a>
+<a href="javascript:while(1){alert('你出不去了')};">幻灯片播放结束，点击退出</a>
