@@ -2,15 +2,15 @@
 
 <ruby>古川<rp>(<rp><rt>こがわ</rt><rp>)</rp>七<rp>(</rp><rt>&nbsp;なな</rt><rp>)</rp>里<rp>(</rp><rt>り&nbsp;</rt><rp>)</rp></ruby>のスライドフィルム
 
-![](./img/rh.gif)
+![这张像素画不是我做的](./img/rh.gif)
 
 ---
 
 ## Self introduction
 
-<ruby>古川<rp>(<rp><rt>こがわ</rt><rp>)</rp>七<rp>(</rp><rt>&nbsp;なな</rt><rp>)</rp>里<rp>(</rp><rt>り&nbsp;</rt><rp>)</rp></ruby>，社恐debu。
+<ruby>古川<rp>(<rp><rt>こがわ</rt><rp>)</rp>七<rp>(</rp><rt>&nbsp;なな</rt><rp>)</rp>里<rp>(</rp><rt>り&nbsp;</rt><rp>)</rp></ruby>です。社恐debu。
 
-喜欢音游，想成为画佬。狗狗单推人。
+喜欢音游。想成为~~仮面ライダー~~。狗狗单推人。
 
 ---
 
@@ -38,6 +38,12 @@
 
 ---
 
+Minato![皆](./img/aqua.jpg)↓
+
+Nakiri![切](./img/ayame.jpg)↓
+
+Super best match
+
 さあ，细数我的github仓库吧
 
 ---
@@ -50,10 +56,11 @@
 
 - <a href="https://nanarino.github.io/jigsaw/" target="_blank">沙雕网页游戏：智能拼图</a>
 
-- <a href="https://github.com/nanarino/vue-upImg" target="_blank">vue上传用组件：upImg</a>
+- <a href="https://nanarino.github.io/vue-upImg/" target="_blank">vue上传用组件：upImg</a>
 
 - <a href="https://github.com/nanarino/cdb" target="_blank">django项目：茶道部</a>
--  <a href=" https://github.com/nanarino?tab=repositories" target="_blank">...</a>
+
+- <a href="https://github.com/nanarino?tab=repositories" target="_blank">...</a>
 
 ---
 
@@ -61,8 +68,9 @@
 
 联系方式
 
-- `qq431756801@163.com`
-- 哔哩哔哩：古川ななり
+- <a href="https://mail.163.com/" target="_blank">qq431756801@163.com</a>
+
+- <a href="https://space.bilibili.com/87370954" target="_blank">哔哩哔哩：古川ななり</a>
 
 ---
 
