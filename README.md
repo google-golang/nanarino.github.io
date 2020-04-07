@@ -12,9 +12,6 @@ If your site is a User or Organization Page that has a repository named `<userna
 
 故而直接将dist目录的index.html解构到此目录中。
 
-[其他部署:http://akokono.com](http://akokono.com)
-
-
 
 ## page-cli-setup
 
